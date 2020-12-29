@@ -38,7 +38,7 @@
 <div class="profile-page">
   <div class="wrapper">
     <div class="page-header page-header-small" filter-color="green">
-      <div class="page-header-image" data-parallax="true" style="background-image: url('images/cc-bg-1.jpg');"></div>
+      <div class="page-header-image" data-parallax="true" style="background-image: url('images/new.jpg');"></div>
       <div class="container">
         <div class="content-center">
           <div class="cc-profile-image"><a href="#"><img src="images/jeri.jpg" alt="Image"/></a></div>
@@ -244,7 +244,7 @@
         <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
           <div class="card-body cc-experience-header">
             <p>Mar 2020 - Present</p>
-            <div class="h5">Metodata Electronics</div>
+            <div class="h5">Metrodata Electronics</div>
           </div>
         </div>
         <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
@@ -398,7 +398,7 @@ Determining operational practicality</p>
   </div>
 </div> -->
 <div class="section" id="contact">
-  <div class="cc-contact-information" style="background-image: url('images/staticmap.png');">
+  <div class="cc-contact-information" style="background-image: url('images/map.PNG');">
     <div class="container">
       <div class="cc-contact">
         <div class="row">
