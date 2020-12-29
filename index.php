@@ -51,7 +51,9 @@
           <div class="button-container"><a class="btn btn-default btn-round btn-lg btn-icon" href="https://www.facebook.com/jeri.ramadhan/" rel="tooltip" title="Follow me on Facebook"><i class="fa fa-facebook"></i></a>
           <!-- <a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip" title="Follow me on Twitter"><i class="fa fa-twitter"></i></a> -->
           <a class="btn btn-default btn-round btn-lg btn-icon" href="https://www.linkedin.com/in/jeri-ramadhan-48698117a/" rel="tooltip" title="Follow me on LinkedIn"><i class="fa fa-linkedin"></i></a>
-          <a class="btn btn-default btn-round btn-lg btn-icon" href="https://www.instagram.com/jrrmdhn/" rel="tooltip" title="Follow me on Instagram"><i class="fa fa-instagram"></i></a></div>
+          <a class="btn btn-default btn-round btn-lg btn-icon" href="https://www.instagram.com/jrrmdhn/" rel="tooltip" title="Follow me on Instagram"><i class="fa fa-instagram"></i></a>
+          <a class="btn btn-default btn-round btn-lg btn-icon" href="https://github.com/jeriramadhan" rel="tooltip" title="Follow me on Github"><i class="fa fa-github"></i></a>
+        </div>
         </div>
       </div>
     </div>
